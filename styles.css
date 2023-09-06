@@ -306,14 +306,14 @@ main {
 }
 
 .top-section {
-    max-width: 75%;
-    padding: 13rem 13rem;
+    max-width: 100%;
+    padding: 8% 10% 5% 12%;
     
 }
 
 .ms-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -329,7 +329,7 @@ main {
 
 .ms-section-reverse, .ms-section-motion {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     max-width: 100%;
     align-items: center;
     justify-content: center;
